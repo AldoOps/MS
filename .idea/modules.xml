@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MS.iml" filepath="$PROJECT_DIR$/.idea/MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msavaliadorcredito/msavaliadorcredito.iml" filepath="$PROJECT_DIR$/msavaliadorcredito/msavaliadorcredito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mscartoes/mscartoes.iml" filepath="$PROJECT_DIR$/mscartoes/mscartoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msclientes/msclientes.iml" filepath="$PROJECT_DIR$/msclientes/msclientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mscloudgateway/mscloudgateway.iml" filepath="$PROJECT_DIR$/mscloudgateway/mscloudgateway.iml" />
+    </modules>
+  </component>
+</project>
